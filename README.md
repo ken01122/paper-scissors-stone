@@ -16,7 +16,7 @@
 
 
 ### 預期成果
-先於電腦方使用 Random函式從三個猜拳手勢中隨機選取一個，之後利用Webcam根據使用者手勢偵測出拳內容，偵測完後判斷電腦預先出拳內容決定使用者是贏、輸抑或是平手。
+先於電腦方使用 Random函式從三個猜拳手勢中隨機選取一個，之後利用Webcam根據使用者手勢偵測出拳內容，偵測完後判斷電腦出拳內容決定使用者是贏、輸抑或是平手。
 
 ### 參考文獻
 Steam教育學習網MediaPipe手勢偵測:https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-gesture.html
