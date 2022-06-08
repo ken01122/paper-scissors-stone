@@ -1,4 +1,4 @@
-# 應用OpeCV功能完成與AI猜拳功能
+# 應用OpenCV功能完成與AI猜拳功能
 
 ### 開發環境
 * 使用平台： Visual Studio Code、GitHub
