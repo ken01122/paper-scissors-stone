@@ -21,4 +21,10 @@
 ### 參考文獻
 Steam教育學習網MediaPipe手勢偵測:https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-gesture.html
 
-MediaPipe:https://google.github.io/mediapipe/
+MediaPipe:https://google.github.io/mediapipe/ 
+ 
+Cosine Similarity (餘弦相似度) 的計算方法:https://clay-atlas.com/blog/2020/03/26/cosine-similarity-text-count/
+
+
+  
+ 
