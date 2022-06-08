@@ -1,0 +1,16 @@
+# 應用OpevCV功能完成與AI猜拳功能
+
+### 開發環境
+* 使用平台： Visual Studio Code、GitHub
+* 使用語言：Python3.9
+* 使用套件：OpenCV、MediaPipe、math、random
+### 執行方法及步驟
+使用math 函式庫，計算利用Mediapipe手掌偵測，啟用手掌偵測，
+每隻手指有4個節點加上手腕上1個共21個節點，再將偵測到的節點座標，
+帶入計算五隻手指角度的函式，取得手指角度後，再定義另外一個函式，由這個函式判斷角度範圍，
+如果偵測到手指的角度如果小於 50 度，表示手指伸直，大於等於 50 度表示手指捲縮，再根據自訂的角度範圍判斷傳入的角度
+，最後回傳該角度所代表的手勢。
+### 參考文獻
+Steam教育網MediaPipe手勢偵測:https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-gesture.html
+
+MediaPipe:https://google.github.io/mediapipe/
