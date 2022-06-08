@@ -123,8 +123,7 @@ with mp_hands.Hands(
                     print('even')
                     pass
                 else:continue
-            break               
-        cv2.imshow('oxxostudio', img)
+            break         
         if cv2.waitKey(5) == ord('q'):
             break
 cap.release()
